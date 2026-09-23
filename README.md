@@ -43,7 +43,7 @@ Our work focuses on:
 
 🌐 Live Demo
 
-Click Here (https://shivrajpatdev.github.io/Nanhe-Pankh/)
+🔗Website [Live Demo](https://shivrajpatdev.github.io/Nanhe-Pankh/)
 
 ---
 
